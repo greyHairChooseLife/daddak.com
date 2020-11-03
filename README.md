@@ -1,4 +1,4 @@
-# daddak.com
+# sample.com
 1st project, web site for high elo gamers playing League of legends.
 
 
@@ -12,7 +12,7 @@
 
 
 
-//daddak.com 웹서비스의 필요성
+//sample.com 웹서비스의 필요성
 
 리그오브레전드(이하 롤)은 랜덤 매칭된 각 5인 구성의 양팀이 승패를 가르는 온라인 게임이다. 게임의 승패에 영향을 끼치는 과금요소가 전혀 없어 순수한 게임 실력에 따라 승부가 난다. 
 

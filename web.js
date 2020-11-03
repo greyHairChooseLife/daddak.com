@@ -31,8 +31,8 @@ db3.defaults({championsList: [{id : 266, name : "Aatrox", }, {id : 103, name : "
 
 
 
-var key = "RGAPI-af620abc-9ca2-4c92-b33a-8d0c8c2de156";
-
+var key = "RGAPI-5352b304-539c-4608-97d4-34f5d5ebee1a";
+//개발용 24시간짜리 임시 api키
 
 app.use(bodyParser.urlencoded({extended: false }));
 app.use(express.static(__dirname+'/lib'));
